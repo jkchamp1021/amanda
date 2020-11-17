@@ -1,1 +1,1 @@
-{"short_name":"Sistema Temperatura","name":"Sistema de Control de Temperatura","icons":[{"src":"/assets/img/back2.png?h=c9432be99c48f0dbb980305f2ef79fd9","type":"image/png","sizes":"1920x1080"}],"start_url":"/index.html","display":"fullscreen"}
+{"short_name":"Sistema Temperatura","name":"Sistema de Control de Temperatura","icons":[{"src":"/assets/img/back2.png","type":"image/png","sizes":"1920x1080"}],"start_url":"/index.html","display":"fullscreen"}
