@@ -1,0 +1,10 @@
+.masthead {
+  margin-top: 0em;
+}
+
+@media (min-width: 992px) {
+  .masthead {
+    margin-top: 6em;
+  }
+}
+
